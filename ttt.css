@@ -59,18 +59,8 @@ footer{
 
 /* Mobile styles */
 @media (max-width: 768px) {
-  h1{
-      font-size:15px;
+  .title{
+    visibility: hidden;
   }
-    
-  .container{
-     display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: center;     
-   
-}
- 
-    
-}
+  }
 
