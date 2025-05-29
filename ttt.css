@@ -64,7 +64,8 @@ footer{
   }
     
   .container{
-     display: flexwrap;
+     display: flex;
+    flex-wrap: nowrap;
     justify-content: center;
     align-items: center;     
    
