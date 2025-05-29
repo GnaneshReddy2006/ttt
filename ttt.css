@@ -2,7 +2,17 @@
     background-color: rgb(190, 235, 221);
     color: rgb(39, 40, 40);
 }
-
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-right: 30px; */
+}
 .boxes{
     display: flex;
     flex-wrap: wrap;
@@ -57,10 +67,6 @@ footer{
 }
 
 
-/* Mobile styles */
 @media (max-width: 768px) {
-  .title{
-    visibility: hidden;
+ 
   }
-  }
-
