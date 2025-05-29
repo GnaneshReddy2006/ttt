@@ -68,5 +68,15 @@ footer{
 
 
 @media (max-width: 768px) {
+    footer{
+    margin-top: 10px;
+    font-size:20px;
+    color: rgb(246, 37, 37);
+    height: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+
+}
  
   }
